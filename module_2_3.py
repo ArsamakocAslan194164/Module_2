@@ -9,7 +9,7 @@ while len(my_list) > i:
     else:
         print(my_list[i])
 
-    i += 1
+    i += 1 
 
 
 
